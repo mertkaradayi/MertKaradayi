@@ -1,7 +1,7 @@
 # Mert Karadayı
 
 🦀 Rustacean in training.  
-Ex-frontrow seat holder to university lectures I barely remember.  
+Ex-frontrow seat holder to university lectures I barely remember.(Computer Engineering)  
 Now making up for it by reading *actual books* and writing *actual code*.
 
 ## Previously:
