@@ -19,7 +19,7 @@ Now making up for it by reading *actual books* and writing *actual code*.
 - Addicted to productivity systems I’ll probably abandon next month
 - Learning Rust seriously: Tokio, thiserror, and all the edge cases
 
-📚 [My Rust Journey](https://github.com/imertkaradayi/become-rustacean)  
+📚 [My Rust Journey](https://github.com/mertkaradayi/become-rustacean)  
 🧠 Ask me about: closures, lifetimes, or existential dread
 
 > “Minimalism, but with extra keystrokes.”
