@@ -1,8 +1,7 @@
 # Mert Karadayı
 
 🦀 Rustacean in training.  
-Ex-frontrow seat holder to university lectures I barely remember.(Computer Engineering)  
-Now making up for it by reading *actual books* and writing *actual code*.
+🎓 BSc in Computer Engineering. Catching up the right way—books and code. 
 
 ## Previously:
 - Launched an anonymous NFT project that actually worked (seriously)
