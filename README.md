@@ -1,4 +1,3 @@
 # Mert Karadayı  
-building AI-assisted, ingestion-heavy products.  
-curious about web3, on-chain data, and how value moves.  
-learning Rust to make it all safer and faster.  
+building systems where data, finance, and emerging tech intersect. 
+curious about web3, on-chain data, and how value moves.
